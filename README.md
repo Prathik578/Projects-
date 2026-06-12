@@ -6,20 +6,39 @@ The goal of this repository is to document my learning journey and share useful 
 
 ## Projects
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Study Tracker
+2. Flashcard Generator
+3. File Organizer
+4. Algorithm Visualizer
+5. Pathfinding Simulator
+6. Custom Data Structures Library
+7. Mini Database Engine
+8. Research Paper Database
+9. Mini Shell
+10. Process Monitor
+11. Port Scanner
+12. Network Discovery Tool
+13. Chat Application
+14. Password Strength Analyzer
+15. File Integrity Checker
+16. Flashcard AI
+17. Research Assistant
+18. Personal Knowledge Base
+19. Project Management Tool
+20. Physics Simulator
+21. Fractal Generator
+22. Tiny Programming Language
+23. Citation Manager
+24. Literature Mapping Tool
+25. System Log Analyzer
+26. Distributed File Sync
+27. AETHER Node Discovery
+28. AETHER Dashboard
+29. AETHER Core
 
 ## About
 
-This repository is maintained by Prathik578 and will continue to grow as I learn new concepts and build more projects.
+This repository is maintained by me as Prathik578 and will continue to grow as I learn new concepts and build more projects.
 
 Topics include:
 
@@ -30,3 +49,4 @@ Topics include:
 - Linux
 - Automation
 - Utility Tools
+- and many more
