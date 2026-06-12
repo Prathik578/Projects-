@@ -1,6 +1,10 @@
-# Utility Projects 
+# Utility Projects
 
-This git hub repo has small projects made by me Prathik578 so if you want feel free to use them while learning Python , C and more the list of projects are :
+A collection of small projects created while learning Computer Science, Python, C, networking, and software development.
+
+The goal of this repository is to document my learning journey and share useful tools and experiments with others. Feel free to explore the projects, learn from them, and use them as references for your own studies.
+
+## Projects
 
 1.
 2.
@@ -13,3 +17,16 @@ This git hub repo has small projects made by me Prathik578 so if you want feel f
 9.
 10.
 
+## About
+
+This repository is maintained by Prathik578 and will continue to grow as I learn new concepts and build more projects.
+
+Topics include:
+
+- Python
+- C
+- Computer Science
+- Networking
+- Linux
+- Automation
+- Utility Tools
