@@ -1,6 +1,6 @@
 # Utility Projects
 
-A collection of small projects created while learning Computer Science, Python, C, networking, and software development.
+A collection of small projects created while learning Computer Science, Python, C, networking, and software development and more .
 
 The goal of this repository is to document my learning journey and share useful tools and experiments with others. Feel free to explore the projects, learn from them, and use them as references for your own studies.
 
