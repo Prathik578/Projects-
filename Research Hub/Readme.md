@@ -4,6 +4,8 @@
 
 ---
 
+## Video demo: <https://drive.google.com/drive/folders/1fO8S5eRe_PcSPxSHe0BZHxEayAAC8was>
+
 ## Overview
 
 ResearchHub is a Flask-based web application that enables users to build and organize their own digital research library. The application allows authenticated users to upload research papers, store metadata, search through their collection, edit existing entries, and remove papers when they are no longer needed.
