@@ -1,0 +1,24 @@
+{% extends "layout.html" %}
+
+{% block main %}
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6 text-center">
+            <div class="card shadow-lg border-danger">
+                <div class="card-header bg-danger text-white">
+                    <h1 class="mb-0 display-4">404</h1>
+                </div>
+                <div class="card-body">
+                    <h3 class="card-title">Page Not Found</h3>
+                    <p class="card-text lead text-muted">
+                        The research paper or page you're looking for doesn't exist.
+                    </p>
+                    <hr>
+                    <a href="/" class="btn btn-primary btn-lg">Go Home</a>
+                    <a href="javascript:history.back()" class="btn btn-outline-secondary btn-lg">Go Back</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}   
