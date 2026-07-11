@@ -1,0 +1,33 @@
+{% extends "layout.html" %}
+
+{% block main %}
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <h2>Upload Paper</h2>
+            <form action="/upload" method="POST" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label class="form-label">Title</label>
+                    <input class="form-control" type="text" name="title" required>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Authors</label>
+                    <input class="form-control" type="text" name="authors" required>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Year</label>
+                    <input class="form-control" type="number" name="year" required>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Abstract</label>
+                    <textarea class="form-control" name="abstract" rows="3"></textarea>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">PDF File</label>
+                    <input class="form-control" type="file" name="file" accept=".pdf" required>
+                    <span id="file-name-display" class="small text-muted mt-2 d-block"></span>
+                </div>
+                <button class="btn btn-success w-100" type="submit">Upload</button>
+            </form>
+        </div>
+    </div>
+{% endblock %}
