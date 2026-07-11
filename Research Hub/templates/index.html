@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+
+{% block main %}
+    <div class="text-center mt-5">
+        <h1>Welcome to ResearchHub</h1>
+        <p class="lead">Manage your research papers effortlessly.</p>
+        {% if not session.user_id %}
+            <a href="/register" class="btn btn-lg btn-primary">Get Started</a>
+        {% else %}
+            <a href="/dashboard" class="btn btn-lg btn-success">Go to Dashboard</a>
+        {% endif %}
+    </div>
+{% endblock %}
