@@ -13,7 +13,7 @@ The goal of this repository is to document my learning journey and share useful 
 5. Pathfinding Simulator
 6. Custom Data Structures Library
 7. Mini Database Engine
-8. Research Paper Database
+8. Research Hub ✅
 9. Mini Shell
 10. Process Monitor
 11. Port Scanner
