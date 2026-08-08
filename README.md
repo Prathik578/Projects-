@@ -8,7 +8,7 @@ The goal of this repository is to document my learning journey and share useful 
 
 1. Study Tracker
 2. Flashcard Generator
-3. File Organizer
+3. File Organizer✅
 4. Algorithm Visualizer
 5. Pathfinding Simulator
 6. Custom Data Structures Library
