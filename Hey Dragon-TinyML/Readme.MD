@@ -4,11 +4,11 @@ A lightweight keyword-spotting model designed to detect the wake word **"hey_dra
 
 The model was trained and deployed using **Edge Impulse** and exported as a C++ inference library for resource-constrained embedded devices.
 
-## 🎯 Objective
+##  Objective
 
 Build a small, low-latency wake-word classifier capable of running directly on an edge device without requiring an internet connection.
 
-## 🧠 Model
+##  Model
 
 ### Classes
 
@@ -17,7 +17,7 @@ Build a small, low-latency wake-word classifier capable of running directly on a
 
 The classifier processes short audio samples and predicts whether the wake word is present.
 
-## 📊 Results
+##  Results
 
 ### Validation Set
 
@@ -64,7 +64,7 @@ Test-set confusion matrix:
 
 This indicates that the model recognizes the wake word relatively well but requires better noise generalization for reliable real-world deployment.
 
-## 🛠️ Technology
+##  Technology
 
 - Edge Impulse
 - TinyML
@@ -72,7 +72,11 @@ This indicates that the model recognizes the wake word relatively well but requi
 - TensorFlow Lite Micro / embedded inference
 - TensorBoard
 
-## 📁 Repository Structure
+## Download & ETC
+
+Feel free to download the model and look at the code in the git hub repo but a catch git hub does not have all the code in it because it does not support like many files at a time and that is why i did not put them but i have the .zip file so you can unzip it and look in it :).
+
+##  Repository Structure
 
 ```text
 hey-dragon-tinyml/
