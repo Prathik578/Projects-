@@ -32,7 +32,8 @@ The goal of this repository is to document my learning journey and share useful 
 24. Literature Mapping Tool
 25. System Log Analyzer
 26. Distributed File Sync
-27. Hey Dragon-TinyML
+27. Hey Dragon-TinyML✅
+28. Person-Recognition-TinyML✅
 
 ## About
 
