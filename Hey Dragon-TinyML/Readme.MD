@@ -49,7 +49,7 @@ The classifier processes short audio samples and predicts whether the wake word 
 
 The model is therefore small enough for highly resource-constrained embedded systems.
 
-## 🔍 Evaluation
+##  Evaluation
 
 The independent test set revealed a significant difference between validation and test performance.
 
@@ -75,6 +75,10 @@ This indicates that the model recognizes the wake word relatively well but requi
 ## Download & ETC
 
 Feel free to download the model and look at the code in the git hub repo but a catch git hub does not have all the code in it because it does not support like many files at a time and that is why i did not put them but i have the .zip file so you can unzip it and look in it :).
+
+## Acknowledgement
+
+This project was completed as part of the **Qualcomm Academy AI Upskilling coursework** and uses **Edge Impulse** for model development and evaluation.
 
 ##  Repository Structure
 
