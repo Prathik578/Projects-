@@ -1,6 +1,5 @@
 # Person Recognition with Fine-Tuned MobileNetV2
 
-A person-recognition object detection model developed as part of the **Qualcomm Academy AI Upskilling / Edge AI coursework** using **Edge Impulse**.
 
 The project fine-tunes a **MobileNetV2** model for person detection and evaluates both the original INT32 model and an **INT8 quantised** version for edge deployment.
 
@@ -81,7 +80,7 @@ This project provided hands-on experience with:
 
 This project was completed as part of the **Qualcomm Academy AI Upskilling coursework** and uses **Edge Impulse** for model development and evaluation.
 
-## License
+## Download
+Feel free to download the model and look at the code in the git hub repo but a catch git hub does not have any code in it because it does not support like many files at a time and that is why i did not put them but i have included the ".zip" file so you can unzip it and look in it :).
 
-This repository is intended primarily for educational and portfolio purposes.
 
