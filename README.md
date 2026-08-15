@@ -6,34 +6,22 @@ The goal of this repository is to document my learning journey and share useful 
 
 ## Projects
 
-1. Study Tracker
-2. Flashcard Generator
-3. File Organizer✅
-4. Algorithm Visualizer
-5. Pathfinding Simulator
-6. Custom Data Structures Library
-7. Mini Database Engine
-8. Research Hub ✅
-9. Mini Shell
-10. Process Monitor
-11. Port Scanner
-12. Network Discovery Tool
-13. Chat Application
-14. Password Strength Analyzer
-15. File Integrity Checker
-16. Flashcard AI
-17. Research Assistant
-18. Personal Knowledge Base
-19. Project Management Tool
-20. Physics Simulator
-21. Fractal Generator
-22. Tiny Programming Language
-23. Citation Manager
-24. Literature Mapping Tool
-25. System Log Analyzer
-26. Distributed File Sync
-27. Hey Dragon-TinyML✅
-28. Person-Recognition-TinyML✅
+1.  Hey Dragon — TinyML ✅
+2.  Person Recognition — TinyML ✅
+3.  Flashcard AI
+4.  Research Assistant
+5.  Personal Knowledge Base
+6.  Custom Data Structures Library
+7.  Pathfinding Simulator
+8.  Mini Database Engine
+9.  Tiny Programming Language
+10. Mini Shell
+11. Process Monitor
+12. Distributed File Sync
+13. Port Scanner
+14. Research Hub ✅
+15. Physics Simulator
+16. File Organizer ✅
 
 ## About
 
